@@ -8,7 +8,7 @@
 
 ---
 
-## 📋 Table des matières
+##  Table des matières
 
 - [À propos](#à-propos)
 - [Contexte](#contexte)
@@ -19,7 +19,7 @@
 
 ---
 
-## 🎯 À propos du projet
+##  À propos du projet
 
 Ce projet étudie **l'innovation et la dynamique concurrentielle** dans l'industrie mondiale des ascenseurs.
 
@@ -32,7 +32,7 @@ Ce projet étudie **l'innovation et la dynamique concurrentielle** dans l'indust
 
 ---
 
-## 🌍 Contexte
+##  Contexte
 
 ### Marché mondial 2025
 
@@ -55,15 +55,15 @@ Ce projet étudie **l'innovation et la dynamique concurrentielle** dans l'indust
 
 | Entreprise | Part (%) | Revenus 2024 (Mds USD) |
 |------------|----------|------------------------|
-| Otis | ~13% | 14,3 |
-| Schindler | ~10% | 11,24 |
-| KONE | ~11% | 12,41 |
-| TK Elevator | ~8% | 8,5 |
-| Autres | ~58% | - |
+| Otis | 13% | 14,3 |
+| Schindler | 10% | 11,24 |
+| KONE | 11% | 12,41 |
+| TK Elevator | 8% | 8,5 |
+| Autres | 58% | - |
 
 ---
 
-## 🔬 Méthodologie
+##  Méthodologie
 
 1. **Collecte** : Rapports annuels, Google Patents
 2. **Analyse** : Python + Pandas
@@ -71,7 +71,7 @@ Ce projet étudie **l'innovation et la dynamique concurrentielle** dans l'indust
 
 ---
 
-## 🎯 Résultats clés
+## Résultats clés
 
 - Marché oligopolistique (Top 3 = 34%)
 - Course innovation IA
@@ -80,7 +80,7 @@ Ce projet étudie **l'innovation et la dynamique concurrentielle** dans l'indust
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ```bash
 git clone https://github.com/bienvenue2002/innovation-elevators-ia.git
